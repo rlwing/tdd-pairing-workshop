@@ -4,17 +4,23 @@ Galvanize Instructors: Rob Wing & Kay Hudson
 ## Instructions
 Work as a pair to implement the following stories in a file called com.galvanize.library.MyLibrary.java using TDD.  No code should exist without a test! Switch pairing role after each problem. 
 
-### Pairing Roles
-* Navigator
-  * Keeps big picture in mind
-  * Knows where you are going
-  * Gives high or mid-level instructions to the driver
-  * NOT describing syntax
-
-* Driver
-  * Writes the code
-  * proving/disproving theories by testing (breakpoints, logging, manual)
-  * Asking questions
+### Pair Programing Tips
+* Drivers (How): 
+    * Install tools
+    * Organize app file structure
+    * Check imports/exports
+    * Check naming conventions (files, variables, classes, etc)
+    * Lint/maintain style and proper syntax
+    * Code commenting
+    * Tracking duplication for refactoring later
+* Navigators (Why):
+    * Use documentation to guide
+    * Goal tracking and planning
+    * Track errors encountered and research them.
+    * Prioritize and course correct
+    * Keep a checklist of tasks to perform next
+    * Create visualizations (whiteboard)
+    * Keep track of time
 
 ## Stories
 ### Strings
