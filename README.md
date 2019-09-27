@@ -16,7 +16,7 @@ Work as a pair to implement the following stories in a file called com.galvanize
   * proving/disproving theories by testing (breakpoints, logging, manual)
   * Asking questions
 
-## Exercises
+## Stories
 ### Strings
 * A method that will reverse the characters of a string
   * Given: "ABC 1234 DEFGH" 
