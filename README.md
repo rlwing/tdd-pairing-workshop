@@ -1,8 +1,8 @@
 # TDD & Pairing Workshop
-## Galvanize Instructors: Rob Wing & Kay Hudson  
+Galvanize Instructors: Rob Wing & Kay Hudson  
 
-## Library Methods
-Work as a pair to implement the following stories in a file called com.galvanize.library.MyLibrary.java using TDD.  No code should exist without a test! Switch role after each problem.
+## Instructions
+Work as a pair to implement the following stories in a file called com.galvanize.library.MyLibrary.java using TDD.  No code should exist without a test! Switch pairing role after each problem. 
 
 ### Pairing Roles
 * Navigator
@@ -16,6 +16,7 @@ Work as a pair to implement the following stories in a file called com.galvanize
   * proving/disproving theories by testing (breakpoints, logging, manual)
   * Asking questions
 
+## Exercises
 ### Strings
 * A method that will reverse the characters of a string
   * Given: "ABC 1234 DEFGH" 
