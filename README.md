@@ -55,4 +55,16 @@ Work as a pair to implement the following stories in a file called com.galvanize
 * A method to convert decimal to english string (round to 1/16)
   * Given 2.25 Returns  "2 1/4"
   * Give 5.75835
+  
+### Larger Problem...
+Story: As a programmer, I need an api that will calculate the area of shapes, and the volume of a sphere.
+#### Acceptance Criteria:
+* Create a new sphere with radius
+* Calculate the volume of a sphere
+* Create a new rectangle with the length of a length and width.
+* Create a new Square with just one side
+* Create a new Circle with just the diameter
+* Shape should tell me if it’s a square.  Ie: if two sides are equal.
+* Given any shape, calculate the area with a single method call.
+
 
