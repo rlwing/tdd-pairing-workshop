@@ -56,10 +56,10 @@ Work as a pair to implement the following stories in a file called com.galvanize
   * Given 2.25 Returns  "2 1/4"
   * Give 5.75835
   
-### Larger Problem...
+### Larger Problem (use this repo)
 Story: As a programmer, I need an api that will calculate the area of shapes, and the volume of a sphere.
 #### Acceptance Criteria:
-* Create a new sphere with radius
+* Create a new sphere with radius value
 * Calculate the volume of a sphere
 * Create a new rectangle with the length of a length and width.
 * Create a new Square with just one side
