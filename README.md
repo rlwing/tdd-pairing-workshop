@@ -60,7 +60,10 @@ Work as a pair to implement the following stories in a file called com.galvanize
 Story: As a programmer, I need an api that will calculate the area of shapes, and the volume of a sphere.
 #### Acceptance Criteria:
 * Create a new sphere with radius value
+  * getRadius() should return the number created
 * Calculate the volume of a sphere
+  * Given radius of 3 volume = 113.1
+  * Given radius of 5 volume = 523.6
 * Create a new rectangle with the length of a length and width.
 * Create a new Square with just one side
 * Create a new Circle with just the diameter
